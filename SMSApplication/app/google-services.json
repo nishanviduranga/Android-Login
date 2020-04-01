@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733283327809",
+    "firebase_url": "https://smsapplication-d7bd4.firebaseio.com",
+    "project_id": "smsapplication-d7bd4",
+    "storage_bucket": "smsapplication-d7bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733283327809:android:37959413b931aa4f608bc0",
+        "android_client_info": {
+          "package_name": "com.example.smsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733283327809-h78v7ag3a1art0i54osma3k438mkq0e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeUQvLe2NEOF56_dRtASOAdK6A54q8cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733283327809-h78v7ag3a1art0i54osma3k438mkq0e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
